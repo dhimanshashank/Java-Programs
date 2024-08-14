@@ -13,6 +13,11 @@ public class ReverseDigits {
         System.out.println("The reverse of " + num + " is: " + reverse(num));
     }
 
+    /**
+     *
+     * @param num Number for which we need to reverse the digits
+     * @return Reversed digits of the number
+     */
     public static int reverse(int num){
         int result = 0;
         while (num != 0){

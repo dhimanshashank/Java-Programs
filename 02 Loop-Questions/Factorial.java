@@ -11,6 +11,11 @@ public class Factorial {
         System.out.println("The Factorial of " + num + " is: " + factorial(num));
     }
 
+    /**
+     *
+     * @param num Input number provided by the user
+     * @return Factorial of number
+     */
     public static long factorial(int num){
         if (num < 2){
             return 1;
@@ -23,7 +28,6 @@ public class Factorial {
             fact *= i;
             i++;
         }
-
         return fact;
     }
 }

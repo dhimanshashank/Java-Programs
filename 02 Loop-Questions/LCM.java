@@ -13,6 +13,12 @@ public class LCM {
         System.out.println("The LCM for " + num1 + " and " + num2 + " is: " + lcm(num1, num2));
     }
 
+    /**
+     *
+     * @param num1 First input number for calculating the LCM
+     * @param num2 Second input number for calculating the LCM
+     * @return Lowest Common Factor (LCM) of the given two inputs
+     */
     public static int lcm(int num1, int num2){
         int i = 1;
         while (true){

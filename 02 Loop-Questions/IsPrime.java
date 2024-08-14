@@ -17,6 +17,11 @@ public class IsPrime {
         }
     }
 
+    /**
+     *
+     * @param num Input number for which prime value is to be checked
+     * @return Boolean value for the number indicating about the isPrime or not.
+     */
     public static boolean isPrime(int num){
         int i = 2;
         while (i < num){

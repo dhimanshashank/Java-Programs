@@ -10,15 +10,18 @@ public class SumOfDigits {
         System.out.println("The Sum of digits of " + num + " is: " + SumOfDigit(num));
     }
 
+    /**
+     *
+     * @param num The number for which Sum Of Digits is to be calculated
+     * @return The Sum Of Digits of the given input
+     */
     public static int SumOfDigit(int num){
         int sum = 0;
-
         while(num != 0){
             int digit = num % 10;
             sum += digit;
             num /= 10;
         }
-
         return sum;
     }
 }

@@ -10,6 +10,10 @@ public class MultiplicationTable {
         printMultiplication(num);
     }
 
+    /**
+     *
+     * @param num Number for which multiplication table is to be generated
+     */
     public static void printMultiplication(int num){
         System.out.println("\nLoading the table....");
         for(int i = 1; i <= 10; i++){

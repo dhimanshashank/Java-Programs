@@ -11,6 +11,11 @@ public class SumOfOdd {
         System.out.println("The OddSum up to " + num + " is : " + sum);
     }
 
+    /**
+     *
+     * @param num Number given by the user
+     * @return Sum of ODD numbers upto the given `num` value
+     */
     public static int OddSum (int num){
         int sum = 0, i = 1;
         System.out.println("Loading the results....\n");

@@ -12,6 +12,10 @@ public class Fibonacci {
         printFibonacci(num);
     }
 
+    /**
+     * Prints the Fibbonaaci series upto a given number
+     * @param num Input number upto which Fibbonacci series is to be generated
+     */
     public static void printFibonacci(int num){
         if (num < 0)    return;
         System.out.print("0 ");
