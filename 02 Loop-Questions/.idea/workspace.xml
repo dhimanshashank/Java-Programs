@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="209225cd-3b88-4cc1-becc-9bfffa45c116" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02 Loop-Questions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumberGuessingGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PasswordChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03 Array-Problems/src/ArrayUtility.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03 Array-Problems/src/SumAndAverage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Basic classes for practice/04 Designing-classes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Basic classes for practice/src/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Basic classes for practice/src/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03 Array-Problems/03 Array-problems.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/03 Array-problems/ArrayPalindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/03 Array-problems/ArraySortedOrNot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/03 Array-problems/ArrayUtility.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/03 Array-problems/DeleteFromArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/03 Array-problems/MaximumAndMinimum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/03 Array-problems/MergeTwoSortedArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/03 Array-problems/NumberOfOccurances.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/03 Array-problems/ReverseArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/03 Array-problems/SumAndAverage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java Programs/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java Programs/Fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java Programs/GCD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java Programs/IsArmstrong.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java Programs/IsPrime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java Programs/LCM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java Programs/MultiplicationTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java Programs/ReverseDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java Programs/SumOfDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java Programs/SumOfOdd.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2ksLDUDDQTvIONsiZGVBigvTcvk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.NumberGuessingGame.executor": "Run",
+    "Application.PasswordChecker.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Java files/Java Programs",
+    "onboarding.tips.debug.path": "D:/Java files/Java Programs/02 Loop-Questions/Advance Loop Questions/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="02 Loop-Questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="02 Loop-Questions" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="209225cd-3b88-4cc1-becc-9bfffa45c116" name="Changes" comment="" />
+      <created>1724067218309</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724067218309</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
