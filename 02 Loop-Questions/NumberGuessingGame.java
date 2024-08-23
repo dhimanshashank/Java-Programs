@@ -9,10 +9,11 @@ public class NumberGuessingGame {
 
     public static void guessNumber(){
         Scanner sc = new Scanner(System.in);
-        double num = Math.random(), guessedNo;
+        int num = (int) Math.ceil(Math.random() * 100);
+        int guessedNo;
         String input;
         do {
-            System.out.print("Please enter the guessed number: ");
+            System.out.print("Please enter the guessed number (1-100): ");
             guessedNo = sc.nextDouble();
             if (num > guessedNo){
                 System.out.println("Your guess is smaller! Think bigger...\n");

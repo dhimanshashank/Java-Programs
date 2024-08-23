@@ -11,8 +11,14 @@ This repository contains a collection of Java practice programs organized into v
   - Focuses on problems that primarily involve loops, such as `for`, `while`, and `do-while` loops. It includes pattern printing, number series, and other loop-based exercises.
 
 - **03 Array-Problems**
-  - This section contains problems related to arrays, including sorting, searching, and manipulating arrays.
+  - This section contains problems related to arrays, including `sorting`, `searching`, and `manipulating` arrays.
 
+- **04 String-Practice**
+    - This section contains problems related to strings, including string operations such as `String Manipulation`, `Update`, `StringBuilder`, `StringBuffer`, etc.
+
+- **05 Real-world-class-building**
+    - This section contains building real world related classes by incorporating the concept of `OOPS` to enhance the data control using `Encapsulation`, `Abstraction`, `try-catch`, etc.
+    - Check out various classes inside this section which are implemented in `packages`.
 - **out/production**
   - Automatically generated folder for compiled classes. This is not manually edited.
 
