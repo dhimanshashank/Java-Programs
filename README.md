@@ -49,11 +49,8 @@ Each program is documented using JavaDoc comments. These comments provide insigh
 ```java
   /**
    * This program calculates the sum of two integers.
-   * 
-   * @param args Command line arguments
-   * @return The sum of the two integers
    */
-  public class SumProgram {
+  class SumProgram {
       // Program code here
   }
 ```
