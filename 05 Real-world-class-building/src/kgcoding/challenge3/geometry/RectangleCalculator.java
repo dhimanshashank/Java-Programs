@@ -1,4 +1,4 @@
-package in.kgcoding.challenge3.geometry;
+package kgcoding.challenge3.geometry;
 
 public class RectangleCalculator {
     /**

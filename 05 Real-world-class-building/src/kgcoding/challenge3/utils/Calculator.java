@@ -1,9 +1,9 @@
-package in.kgcoding.challenge3.geometry.utils;
+package kgcoding.challenge3.utils;
 
-import in.kgcoding.challenge3.geometry.Circle;
-import in.kgcoding.challenge3.geometry.CircleCalculator;
-import in.kgcoding.challenge3.geometry.Rectangle;
-import in.kgcoding.challenge3.geometry.RectangleCalculator;
+import kgcoding.challenge3.geometry.Circle;
+import kgcoding.challenge3.geometry.CircleCalculator;
+import kgcoding.challenge3.geometry.Rectangle;
+import kgcoding.challenge3.geometry.RectangleCalculator;
 
 import java.util.Scanner;
 
