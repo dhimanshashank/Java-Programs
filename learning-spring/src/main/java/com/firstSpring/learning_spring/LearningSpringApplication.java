@@ -12,8 +12,8 @@ public class LearningSpringApplication {
 	public static void main(String[] args) {
 //		SpringApplication.run(LearningSpringApplication.class, args);
 //		SuperContraGame game = new SuperContraGame();
-//		MarioGame game = new MarioGame();
-		PacmanGame game = new PacmanGame();
+		MarioGame game = new MarioGame();
+//		PacmanGame game = new PacmanGame();
 
 		GameRunner runner = new GameRunner(game);
 		runner.run();
